@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Base param
 Height : 44m
 Diameter : 2.8 m
@@ -19,3 +20,10 @@ high thrust after the atmospheric phase of the launch.
 Fuel : HTPB
 Max. Thrust : 240 kN
 >>>>>>> PS3
+=======
+PSLV uses an Earth storable liquid rocket engine for its second stage, know as
+the Vikas engine, developed by Liquid Propulsion Systems Centre.
+Engine : Vikas
+Fuel : UDMH + N2O4
+Max. Thrust : 799 kN
+>>>>>>> PS2
