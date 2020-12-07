@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Base param
 Height : 44m
 Diameter : 2.8 m
@@ -27,3 +28,10 @@ Engine : Vikas
 Fuel : UDMH + N2O4
 Max. Thrust : 799 kN
 >>>>>>> PS2
+=======
+PSLV uses the S139 solid rocket motor that is augmented by 6 solid strap-on
+boosters.
+Engine : S139
+Fuel : HTPB
+Max. Thrust : 4800 kN
+>>>>>>> PS1
