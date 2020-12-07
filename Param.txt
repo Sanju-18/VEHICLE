@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Base param
 Height : 44m
 Diameter : 2.8 m
@@ -12,3 +13,9 @@ Fuel : MMH + MON
 Max. Thrust : 7.6 x 2 kN
 
 >>>>>>> PS4
+=======
+The third stage of PSLV is a solid rocket motor that provides the upper stages
+high thrust after the atmospheric phase of the launch.
+Fuel : HTPB
+Max. Thrust : 240 kN
+>>>>>>> PS3
